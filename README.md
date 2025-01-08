@@ -1,2 +1,0 @@
-# PawPal
-Web Dev Project
