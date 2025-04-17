@@ -1,6 +1,6 @@
 # 🐾 PawPal
 
-**PawPal** is a web platform designed to connect pet owners with institutions, streamlining the management of pet-related activities such as adoptions, appointments, journaling, and pet profiles. 
+**PawPal** is a web platform designed to connect pet owners with institutions, streamlining the management of pet-related activities such as appointments, journaling, lost foound and pet profiles. 
 
 Developed as part of the **CS546 Web Programming** course at Stevens Institute of Technology, PawPal focuses on creating a user-friendly, secure, and efficient experience for both individual users and institutions.
 
@@ -10,7 +10,7 @@ Developed as part of the **CS546 Web Programming** course at Stevens Institute o
 
 - 🐶 Pet profile management (add/edit/delete)
 - 📅 Appointment scheduling for grooming, vet visits, etc.
-- 🏠 Pet adoption system with listing and application
+- 🏠 Pet lost and found system along with community forum
 - 📓 Pet journaling system for users to log activities
 - 👥 Role-based access for users and institutions
 - 🔐 Secure user authentication with personalized dashboards
